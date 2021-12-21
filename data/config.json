@@ -1,0 +1,11 @@
+{
+    "nasdaq_data_filename" : "nasdaq_screener.csv",
+    "download_folder": "Your Download Path",
+    "output_folder" : "Your Output Path",
+    "landing_base" : "https://www.nasdaq.com/market-activity/stocks/",
+    "chromedriver_path": "Path to your chromedriver",
+	"xpath_X": "/html/body/div[13]/div[3]/div/div[2]/button",
+	"xpath_5Y": "/html/body/div[2]/div/main/div[2]/div[4]/div[3]/div/div[1]/div/div[1]/div[3]/div/div/div/button[5]",
+	"xpath_download": "/html/body/div[2]/div/main/div[2]/div[4]/div[3]/div/div[1]/div/div[1]/div[3]/button",
+    "max_waiting_time": 120
+}
